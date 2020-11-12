@@ -1,3 +1,2 @@
-# funkycalculator.github.io
 # FUNKY CALCULATOR
-## DEVELOPED BY A2Z DEVELOPERS
+## Made with ❤️ by Ayaz Alam
