@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+/* font-family: 'Stalinist One', cursive;*/
+
+body{
+    background-color: dimgray;
+}
+
+header{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Stalinist One', cursive;
+    color: whitesmoke;
+    background-color: dimgray;
+    width: 100vw;
+}
+
+.output{
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+.input{
+    width: 200px;
+}
+input[type="text"]::placeholder{
+	text-align: center;
+    font-family: 'Stalinist One', cursive;
+}
+button{
+    font-family: 'Stalinist One', cursive;
+}
+span{
+    padding: 3.5px;
+}
+.footer1{
+	text-align: center;
+	color: #24272E;
+	bottom: 0px;
+	width: 100%;
+	font-family: Asap,sans-serif;
+	font-size: 20px;
+	line-height: 2rem;
+	
+}
+.fa-heart{
+	color: red;
+}
+
+/*
+input[type=text], select {
+    width: 100%;
+    padding: 12vw 20pvw;
+    margin-left: 50pvw;
+    margin-right: 70vw;
+    display: inline-block;
+    border: 1vw solid dimgray;
+    border-radius: 4vw;
+    box-sizing: border-box;
+    background-color: dimgray;
+}
+.outlayout{
+    margin-top: 20vw;
+    margin-left: 150vw;
+    margin-right: 150vw;
+    border: lightcoral;
+    border-width: 5vw;
+    border-radius: 5vw;
+    border-style: solid;
+    background-color: lightblue;
+}
+
+.inlayout{
+    text-align: center;
+    font-size: 30vw;
+    padding: 0;
+    margin: 2px 2px 2px 2px;
+}
+
+button{
+    border-width: 5px;
+    border: lightcoral;
+    border-style: solid;
+    color: lightblue;
+    background-color: lightcoral;
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px
+}
+*/
